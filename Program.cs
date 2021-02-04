@@ -10,9 +10,9 @@ namespace SalariosGenero
 
             int cantHombres = 0;
             int cantMujeres = 0;
-
+            
             // Proceso
-            for(int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Ingrese el número de folio");
                 Console.ReadLine();
@@ -39,6 +39,8 @@ namespace SalariosGenero
             Console.WriteLine($"La cantidad de mujeres que ganan más de 900.000 son: {cantMujeres}");
             Console.WriteLine($"La cantidad de hombres que ganan menos de 1.000.000 son: {cantHombres}");
 
+
+            
         }
     }
 }
