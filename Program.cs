@@ -6,6 +6,10 @@ namespace SalariosGenero
     {
         static void Main(string[] args)
         {
+            /*Juan David Mosquera
+             * Kevin Bermudez Usma
+             * Alexander Rendon Londoño
+             * Alexis Echavarria Suarez*/
             // Variables
 
             int cantHombres = 0;
